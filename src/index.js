@@ -1,16 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-// import IMAGES from "./imageMap";
-
-// 1ere façon via webPack
+// 1ere façon via webPack pour chercher dans le dossier SRC
 import img7900XTX from "./assets/img/7900XTX/RX7900XTX-9926-front.jpg";
 
-// Pour chercher dans le dossier public/4090
+// 2ème façcon pour chercher dans le dossier PUBLIC
 let indexNVIDIA = 9865;
 let face = "bottom";
-
-// let indexAMD = 9926;
 
 const image = (
 	<div>
