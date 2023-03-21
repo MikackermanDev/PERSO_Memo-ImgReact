@@ -1,4 +1,4 @@
-For learning purpose only all image are from TechpowerUp.com
+All images from TechpowerUp are used for Learning/Education purpose only
 
 # Getting Started with Create React App
 
