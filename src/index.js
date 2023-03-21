@@ -21,6 +21,7 @@ const image = (
 		/>
 		<br />
 		<h2>3ème image avec "concatenation" et provenance SRC</h2>
+		<img src={img7900XTX} width="100%" alt="" />
 	</div>
 );
 
