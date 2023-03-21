@@ -5,12 +5,9 @@ import ReactImageGallery from "./ReactImageGallery";
 
 const page = (
 	<div>
-		<ul>
-			<li>4090</li>
-			<ReactImageGallery />
-			<br />
-			<li>7900XTX</li>
-		</ul>
+		<h2>4090</h2>
+		<ReactImageGallery />
+		<br />
 	</div>
 );
 
