@@ -1,4 +1,6 @@
-For learning purpose only all image are from TechpowerUp.com
+# For learning purpose only ! all images are from TechpowerUp.com
+
+---
 
 # Getting Started with Create React App
 
